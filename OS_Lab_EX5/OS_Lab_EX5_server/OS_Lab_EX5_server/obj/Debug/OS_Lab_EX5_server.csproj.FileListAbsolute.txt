@@ -1,0 +1,7 @@
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\bin\Debug\OS_Lab_EX5_server.exe.config
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\bin\Debug\OS_Lab_EX5_server.exe
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\bin\Debug\OS_Lab_EX5_server.pdb
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\obj\Debug\OS_Lab_EX5_server.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\obj\Debug\OS_Lab_EX5_server.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\obj\Debug\OS_Lab_EX5_server.exe
+D:\Uni\OS Lab\OS_Lab_EX5\OS_Lab_EX5_server\OS_Lab_EX5_server\obj\Debug\OS_Lab_EX5_server.pdb
